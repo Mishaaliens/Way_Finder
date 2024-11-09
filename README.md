@@ -23,10 +23,10 @@ Installation:
 5. Start exploring indoor spaces with markerless navigation and immersive audio guidance.
 
 Team Members:
-Alex T shaji
-Aslam K Thaj
-Basil Mishaal Mathew
-Joe Jomy
+1. Alex T shaji
+2. Aslam K Thaj
+3. Basil Mishaal Mathew
+4. Joe Jomy
 
 Contributing:
 Contributions to the project are welcome! Feel free to submit bug reports, feature requests, or pull requests. Let's work together to enhance the indoor navigation experience.
