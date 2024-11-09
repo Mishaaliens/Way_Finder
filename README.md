@@ -22,6 +22,12 @@ Installation:
 4. Build and deploy the application on an Android device.
 5. Start exploring indoor spaces with markerless navigation and immersive audio guidance.
 
+Team Members:
+Alex T shaji
+Aslam K Thaj
+Basil Mishaal Mathew
+Joe Jomy
+
 Contributing:
 Contributions to the project are welcome! Feel free to submit bug reports, feature requests, or pull requests. Let's work together to enhance the indoor navigation experience.
 
